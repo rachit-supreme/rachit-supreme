@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rachit</h1>
+<h3 align="center">FPGA • RTL • VLSI • Embedded Systems</h3>
 
-<!--
-**rachit-supreme/rachit-supreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 B.Tech Student passionate about hardware-software co-design
+- 🔬 Interested in FPGA systems, AI accelerators and digital VLSI design
+- 🤖 Working on various FPGAs and Xilinx Vivado 
+- ⚡ Exploring Verilog, digital design, System Verilog and STA
+- 📚 Learning computer architecture , UVM and protocols
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Hardware & Embedded
+- Verilog
+- FPGA
+- Vivado
+- System Verilog
+- UART / SPI / I2C
+- Digital Design
+
+### Software
+- C++
+- Python
+- Git
+- Linux
+
+--- 
+
+## 📌 Featured Projects
+
+### 🧠 High-Performance FPGA-Based Hybrid Vedic–Wallace Tree Multiplier
+• Designed and FPGA-implemented an 8-bit Hybrid Vedic–Wallace Tree Multiplier in Verilog, optimizing speed, area, and power for high-performance digital systems.
+• Achieved up to 20% LUT reduction and improved energy efficiency, making the design suitable for DSP, FPGA-based signal processing, and hardware accelerator applications. 
+• Tools: Verilog, Xilinx Vivado, Artix-7 FPGA
+
+### ⚡TAOD-VEGA: Task-Aware Object Detection with Semantic Relevance Scoring
+TAOD-VEGA accepts a natural-language task description alongside an RGB image and outputs the single most task-appropriate object in the scene. The system runs entirely on a Genesys-2 FPGA board using the VEGA RISC-V soft-IP processor and a custom CNNA (Convolutional Neural Network Accelerator) RTL core.
+
+---
+
+## 🏆 Achievements
+
+- Working on FPGA + robotics research-oriented projects
+- Interested in semiconductor and embedded systems internships
+- Completed Stanford + DeepLearning.AI Machine Learning Specialization courses
+- 
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/rachit-supreme/
+- Email: rachitk.dd23.ec@nitp.ac.in
+- Resume: https://drive.google.com/file/d/1ZquB1k5x6JX9yQPzJvgeQsQf2IlyUUkY/view?usp=sharing
+
