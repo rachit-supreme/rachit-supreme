@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachit</h1>
-<h3 align="center">FPGA • RTL • VLSI • Embedded Systems</h3>
+<h3 align="center">FPGA • RTL • VLSI • Machine Learning</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 - 🎓 B.Tech Student passionate about hardware-software co-design
 - 🔬 Interested in FPGA systems, AI accelerators and digital VLSI design
 - 🤖 Working on various FPGAs and Xilinx Vivado 
-- ⚡ Exploring Verilog, digital design, System Verilog and STA
+- ⚡ Exploring Verilog, digital design, System Verilog, PD and STA
 - 📚 Learning computer architecture , UVM and protocols
 
 ---
@@ -44,8 +44,8 @@ TAOD-VEGA accepts a natural-language task description alongside an RGB image and
 
 ## 🏆 Achievements
 
-- Working on FPGA + robotics research-oriented projects
-- Interested in semiconductor and embedded systems internships
+- Working on FPGA + digital VLSI research-oriented projects
+- Interested in semiconductor and digital VLSI systems internships
 - Completed Stanford + DeepLearning.AI Machine Learning Specialization courses
 - 
 ---
