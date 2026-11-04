@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech Student passionate about hardware-software co-design
+- 🎓 B.Tech+M.Tech - Dual Degree Student passionate about hardware-software co-design
 - 🔬 Interested in FPGA systems, AI accelerators and digital VLSI design
 - 🤖 Working on various FPGAs and Xilinx Vivado 
 - ⚡ Exploring Verilog, digital design, System Verilog, PD and STA
@@ -45,9 +45,11 @@ TAOD-VEGA accepts a natural-language task description alongside an RGB image and
 ## 🏆 Achievements
 
 - Working on FPGA + digital VLSI research-oriented projects
-- Interested in semiconductor and digital VLSI systems internships
 - Completed Stanford + DeepLearning.AI Machine Learning Specialization courses
-- 
+- Selected as one of the top 25 engineers out of 500 applicants for an advanced, multi-phase international
+semiconductor training program sponsored by IIT Hyderabad and National Tsing Hua University (NTHU), Taiwan.
+Analyzed advanced semiconductor manufacturing flows(MEMS Devices, PMOS, BioFET) to build a
+foundational understanding of physical silicon constraints during RTL design.
 ---
 
 ## 📫 Connect With Me
